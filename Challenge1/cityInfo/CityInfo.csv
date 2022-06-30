@@ -1,0 +1,5 @@
+buildingType,count,countPercent,sumApartments,sumApartmentsPercent,sumBuildings,sumBuildingsPercent,sumPubs,sumPubsPercent,sumRestaurants,sumRestaurantsPercent
+Unspecific Building,169,7.30%,619,40.80%,null,null,null,null,null,null
+Commercial,1167,50.10%,438,28.90%,512,49.10%,12,100.00%,20,100.00%
+Residental,982,42.10%,456,30.10%,526,50.50%,null,null,null,null
+School,12,0.50%,4,0.30%,4,0.40%,null,null,null,null
